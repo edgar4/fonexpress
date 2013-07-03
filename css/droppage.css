@@ -1,0 +1,30 @@
+#contactArea {
+	height: 225px;
+	border-bottom: 5px solid #02b6f1;
+	overflow: hidden;
+	background-color: #02b6f1;
+}
+/* ----- The Pretty Stuff ----- */
+
+
+a.contact {
+	float: right;
+	height: 34px;
+	width: 115px;
+	display: block;
+	text-indent: -9999px;
+	background: url(../images/contactUs.gif) no-repeat 0 0;
+}
+
+#info {
+	float: left;
+	width: 350px;
+}
+#message {
+	float: right;
+	width: 500px;
+}
+.dleft{
+	text-align:left;
+}
+
